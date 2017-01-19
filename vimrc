@@ -38,7 +38,7 @@ set smartcase          " Overrides ignorecase, if search contains uppercase char
 let mapleader="\<Space>"
 nnoremap <leader>l :source ~/.vimrc<cr>
 
-nnoremap ; :
+nnoremap é :
 
 nnoremap <leader>w :w<cr>
 nnoremap <leader>q :q<cr>
